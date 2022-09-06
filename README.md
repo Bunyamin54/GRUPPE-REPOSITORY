@@ -1,3 +1,3 @@
 # GRUPPE-REPOSITORY
 
-BUNYAMIN GENC https://github.com/Bunyamin54/IND-REPOSITORY.git
+Bunyamin Genc https://github.com/Bunyamin54/IND-REPOSITORY.git
